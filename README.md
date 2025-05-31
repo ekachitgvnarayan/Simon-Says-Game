@@ -1,4 +1,4 @@
-### A Web-Based Simon Says Game
+# A Web-Based Simon Says Game
 
 ## Used Technologies
 - HTML
